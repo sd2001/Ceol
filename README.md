@@ -63,6 +63,12 @@
 
    ```
    cd Ceol/ceol
+   
+   # Adding the spotify credentials
+   nano .env
+   
+     SPOTIFY_CLIENT_ID=" "
+     SPOTIFY_CLIENT_SECRET=" "
    ```
 
    ```
