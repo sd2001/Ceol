@@ -13,7 +13,7 @@
  
 <div align="center"> 
   <img src="https://img.shields.io/badge/Why%20%7C%20What%20it%20does-darkslategrey?logo=Windows%20Terminal&style=for-the-badge" height="45"/>
-  <br><br>
+  <br/>
   <img src="media/mockup.jpg"/> 
   <br><br>
   <img src="media/recommendations.jpeg"/>
