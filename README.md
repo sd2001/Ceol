@@ -38,7 +38,6 @@
   <img src="media/cluster_wise.png"/>
   </p>
 </div>
-
   
 <div align="center"> 
   <img src="https://img.shields.io/badge/Prerequisites-teal?logo=Pinboard&style=for-the-badge" height="45"/> 
